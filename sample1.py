@@ -5,3 +5,6 @@ f1.close()
 f2=open("sample.txt","r")
 print(f2.read())
 f2.close()
+
+
+print("Ji")
