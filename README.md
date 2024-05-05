@@ -1,2 +1,2 @@
 # MyFIrstProject
-This is my first project which i am created after i completed my 12th Grade
+This is the first project I took part in.
